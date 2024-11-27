@@ -4,7 +4,7 @@
 
 - Resolver los problemas utilizando contrastes de hipótesis y Python.
 
-<onlyfor saas="false" withBanner="false"
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 Cómo iniciar este proyecto
 
