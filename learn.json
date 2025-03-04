@@ -14,7 +14,10 @@
 	"autoPlay": "false",
     	"projectType": "project",
 	"description": {
-		"us": "Use your NumPy, Pandas and Matplotlib skills to practice a little about hypothesis testing with Annova and others",
-		"es": "Usa tus habilidades con NumPy, Pandas y Matplotlib para practicar un poco sobre pruebas de hipótesis con ANOVA y otros métodos."
-	}
+		"us": "Use your NumPy, Pandas, and Matplotlib skills to practice hypothesis testing in Python, including ANOVA and other techniques. You’ll complete a series of exercises to deepen your understanding of statistical analysis, working step by step in a Jupyter notebook. Solutions are available if you get stuck.",
+		"es": "Usa tus habilidades de NumPy, Pandas y Matplotlib para practicar pruebas de hipótesis en Python, incluyendo ANOVA y otras técnicas. Completarás una serie de ejercicios para profundizar tu comprensión del análisis estadístico, trabajando paso a paso en un notebook de Jupyter. Las soluciones están disponibles si te quedas atascado."
+	},
+	"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=359"
+  }
 }
